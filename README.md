@@ -1,4 +1,4 @@
-# VectrLoadAI - Intelligent Freight Management
+# FreightFlow - Intelligent Freight Management
 
 An AI-powered Transportation Management System (TMS) for freight brokers. Built with Next.js 16, Supabase, and Tailwind CSS. Features intelligent integrations, real-time tracking, and upcoming AI-powered automation.
 
@@ -43,7 +43,7 @@ An AI-powered Transportation Management System (TMS) for freight brokers. Built 
 - **Variable Placeholders**: Use `{{load_number}}`, `{{customer_name}}`, etc. for dynamic content
 - **Live Preview**: Preview templates with sample data before saving
 - **PDF Generation**: Convert HTML templates to professional PDFs via Puppeteer
-- **White Glove Service**: Request custom template designs from VectrLoadAI team
+- **White Glove Service**: Request custom template designs from FreightFlow team
 
 ### Email Integration
 - **Resend API**: Professional email delivery for all notifications
@@ -524,7 +524,7 @@ When creating document templates, use these placeholders:
 
 ## Third-Party Integrations
 
-VectrLoadAI supports a modular integration layer for essential broker services. Each integration connects to existing modules (Loads, Carriers, Accounting).
+FreightFlow supports a modular integration layer for essential broker services. Each integration connects to existing modules (Loads, Carriers, Accounting).
 
 ### Integration Architecture
 
@@ -847,6 +847,6 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-**VectrLoadAI** - Intelligent Freight Management
+**FreightFlow** - Intelligent Freight Management
 
 Built with AI assistance to prove that the future of software development is accessible to everyone.
